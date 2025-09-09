@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+    background-size: cover;
+    background-position:center ;
+}
+
+img{
+    width: 55%;
+    height: 50%;
+    border-radius: 15px;
+    box-shadow: 4px 4px 10px 4px;
+    margin-bottom: 10%;
+    margin-top: 5%;
+}
+.barraNavegacion{
+    text-align: justify;
+}
